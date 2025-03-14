@@ -26,9 +26,7 @@ const App = () => {
 
           <ScrollView className="flex-1 w-full h-full">
           <Ilaclar />
-            {/* Temporary Solution */}
-          <View className="h-44 mb-[200%] "></View>
-          <View className="h-44 mb-[200%] "></View>
+
 
 
           </ScrollView>
